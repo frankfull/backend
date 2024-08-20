@@ -30,7 +30,7 @@ Não é obrigatório utilizar todas as as tecnologias sugeridas, mas será um di
 - Navegue até o [Github](https://github.com/), crie seu Pull Request apontando para a branch **```main```**
 - Atualize o README.md descrevendo como subir sua aplicação
 
-#### Dúvidas?
+### Dúvidas?
 
 Qualquer dúvida / sugestão / melhoria / orientação adicional só enviar email para hendrix@wattio.com.br
 
